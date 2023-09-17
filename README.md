@@ -7,7 +7,7 @@
 </p>
 
 The below is a link to the mindDump (a to-do list management tool) spreadsheet on Google Drive: 
-https://docs.google.com/spreadsheets/d/6kNBgXskk7WDqGsTuXXpFxcGIO_QlNlTFbNxXKdXE/copy
+https://docs.google.com/spreadsheets/d/1cfW_cp1gsgbELwJIBBmDUGQvKhly68gyPE2FZyzxOWg/copy
 
 If you hit the "Copy" button that appears when you follow the above link, a copy of the spreadsheet will appear on the "My Drive" folder (at the top of the folder hierarchy) in your Google Drive. That copy, which will include the attached script that makes mindDump work, is yours to use for building your personal reference library. Ideally, you would move the file down into a folder designated for your project management activities. 
 
