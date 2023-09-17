@@ -1,7 +1,7 @@
 # mindDump
 <p style="position: relative; overflow:auto">
   <img src="https://github.com/pmarcum/mindDump/blob/main/mindDump_banner_logo.png"
-       width=400
+       width=300
        style="display:inline-block;padding-right:10px"
        alt="mindDump-banner-logo">
 </p>
@@ -34,8 +34,8 @@ Feel free to contact me if you run into permission problems or if you notice any
 ================================
          Updates: 
 ================================
-Latest version is 09162023
+Latest version is 09152023
 
-09/16/2023: 
+09/15/2023: 
 - First release of mindDump. 
 
