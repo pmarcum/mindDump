@@ -15,12 +15,12 @@ If you hit the "Copy" button that appears when you follow the above link, a copy
 
 When you try to press either the help button or the calendar icon button that syncs the list with your Google Tasks, for the first time, you will instead be greeted with an alert that informs you that you need to authorize the script to write into your Google Tasks. Specifically, you will see the following, and should take the indicated action: 
 
-"Authorization Required" --> click on the GREEN "Continue" 
-"Choose an account" --> select the Google Account / email that you wish to use by clicking on it.
-"Google hasn't verified this app":  
-    --> scroll to the bottom and click on the small grey underlined "Advanced" in lower left corner.
-    --> scroll down to bottom and click on small grey underlined "Go to mindDump (unsafe)" at the very bottom.
-"mindDump wants to access your Google Account" --> scroll to the bottom and click the "Allow" button.
+"Authorization Required" --> click on the GREEN "Continue" <br>
+"Choose an account" --> select the Google Account / email that you wish to use by clicking on it.<br>
+"Google hasn't verified this app":  <br>
+    --> scroll to the bottom and click on the small grey underlined "Advanced" in lower left corner.<br>
+    --> scroll down to bottom and click on small grey underlined "Go to mindDump (unsafe)" at the very bottom.<br>
+"mindDump wants to access your Google Account" --> scroll to the bottom and click the "Allow" button.<br>
 
 To be able to enter items directly from meeting notes, you should also copy and install meetingNotes (see https://github.com/pmarcum/meetingNotes). 
 
