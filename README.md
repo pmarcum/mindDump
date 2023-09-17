@@ -1,7 +1,7 @@
 # mindDump
 <p style="position: relative; overflow:auto">
   <img src="https://github.com/pmarcum/mindDump/blob/main/mindDump_banner_logo.png"
-       width=500
+       width=400
        style="display:inline-block;padding-right:10px"
        alt="mindDump-banner-logo">
 </p>
